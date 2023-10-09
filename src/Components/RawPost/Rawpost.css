@@ -1,0 +1,22 @@
+.raw{
+    margin-left: 20px;
+
+}
+.poster{
+    margin: auto;
+    display:flex;
+    padding:20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+}
+/* 
+.poster::-webkit-scrollbar{
+    display: none;
+} */
+.posters
+{
+    max-height: 250px !important;
+    margin-right:10px;
+
+}
