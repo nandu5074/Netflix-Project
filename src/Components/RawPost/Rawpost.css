@@ -18,5 +18,20 @@
 {
     max-height: 250px !important;
     margin-right:10px;
+    cursor: pointer;
 
+}
+.smallposter{
+    max-height:150px !important;
+    justify-content: space-between;
+    padding:10px;
+    cursor:pointer
+}
+.posters:hover
+{
+    transform: scale(1.09)
+}
+
+.smallposter:hover{
+    transform:scale(1.1)
 }
